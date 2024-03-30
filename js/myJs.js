@@ -1,17 +1,17 @@
 const textConfig = {
   text1: "He luu cậu!",
-  text2: "Có phải đây là hagiang không",
-  text3: "kiểu thế",
-  text4: "kiểu thế",
-  text5: "Elm",
-  text6: "đúm đúm",
-  text7: "kiểu thế",
-  text8: "kiểu thế",
-  text9: "kiểu thế",
-  text10: "kiểu thế",
+  text2: "Shop có điều này muốn hỏi, cậu nhớ trả lời thật lòng nha?",
+  text3: "Nếu cậu không trả lời mà thoát ra là đồng í rồi nháaaaa",
+  text4: ".",
+  text5: "Khôngggg",
+  text6: "Ôkiiiiiii",
+  text7: "Bạn có câu hỏi nào muốn đặt cho nhà chuối khôngg",
+  text8: "Gửi",
+  text9: "Cảm ơn cậu đã trả lời câu hỏi nha",
+  text10: "Cảm ơn cậu đã trả lời câu hỏi nhaaaa",
   text11:
-    "kiểu thế",
-  text12: "kiểu thế",
+    "Nhà chuối cảm ơn bạn đã bỏ ra một ít thời gian giàng cho shop<3",
+  text12: "Tạm biệt!!!",
 };
 
 $(document).ready(function () {
